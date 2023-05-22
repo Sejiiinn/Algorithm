@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('pyt.txt', 'r')
+sys.stdin = open('../../inProgress/pyt.txt', 'r')
 input = sys.stdin.readline
 
 n = m = 0
