@@ -2,5 +2,6 @@ import sys
 sys.stdin = open('../testCase/24264.txt', 'r')
 input = sys.stdin.readline
 
-print(sum([i for i in range(int(input()))]))
+n = int(input())
+print(n*(n-1)//2)
 print(2)
