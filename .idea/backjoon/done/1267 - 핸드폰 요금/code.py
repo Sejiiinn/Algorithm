@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('testCase/1267.txt', 'r')
+sys.stdin = open('testCase/1.txt', 'r')
 input = sys.stdin.readline
 
 input() # 첫줄 생략
